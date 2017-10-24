@@ -6,5 +6,6 @@ public class HW {
 		      String helloString = new String(helloArray);  
 		      System.out.println( helloString );
 		      System.out.println("Oh my!");
+		      System.out.println("Oh my my!");
 		   }
 }
